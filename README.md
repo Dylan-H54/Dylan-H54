@@ -12,6 +12,10 @@ Passionate about cybersecurity and always exploring new ways to understand how a
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Dylan-H54/threat-hunting-scenario-tor)**
 
+
+## 🔍 Play Ransomware report
+-  [Play Ransomware Group With Falcon NGSIEM Detection Searches Mapped to MITRE ATT&CK](https://github.com/Dylan-H54/Play-Ransomware-Threat-Profile-with-MITRE-ATTACK-and-detection-searches)
+
 <hr/>
 
 ## 🤳 Connect With Me
